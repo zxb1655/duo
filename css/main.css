@@ -1,11 +1,5 @@
 /* 现在开始画个哆啦A梦吧*/
 
-/* 首先去掉一些默认的样式 */
-* {
-    margin: 0;
-    padding: 0;
-}
-
 /* 添加一个画板 */
 .canvas {
     position: relative;
